@@ -2,6 +2,7 @@ package main
 
 import (
     "fmt"
+    "log"
 
     "github.com/Mark-Kinyua/greetings/src-d/enry/v2"
 )
