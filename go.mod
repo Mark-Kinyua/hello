@@ -3,9 +3,3 @@ module github.com/Mark-Kinyua/hello
 go 1.17
 
 require github.com/Mark-Kinyua/greetings v0.0.0-20220322114120-d9fc3ad9f334
-
-require (
-	golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c // indirect
-	rsc.io/quote v1.5.2 // indirect
-	rsc.io/sampler v1.3.0 // indirect
-)
